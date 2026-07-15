@@ -2,8 +2,8 @@
 let cart = JSON.parse(localStorage.getItem('aman_cart')) || [];
 
 // Telegram Config
-const TELEGRAM_BOT_TOKEN = '8955866967:AAFPudhljEgGgRK9GBiWZxmF42jQ2FEYHJw';
-const TELEGRAM_CHAT_ID = '5054611816';
+const TELEGRAM_BOT_TOKEN = '8601802500:AAGWyk7Yiw9TUoufHiK-kHdlO8nK3Rq-tGE';
+const TELEGRAM_CHAT_ID = '8882295589';
 
 // Menu Data - Aman Juice & Ice
 const menuData = {
